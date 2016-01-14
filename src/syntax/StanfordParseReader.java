@@ -139,9 +139,10 @@ public class StanfordParseReader implements ParseReader {
 			String gov=s.substring(i1,i2).trim();			
 			String dep=s.substring(i2+1,i3).trim();
 			
-//			Utils.println("gov="+gov+" dep="+dep);
+			System.out.println("gov="+gov+" dep="+dep);
 			
 			// all-info
+
 			if (gov.charAt(gov.length()-1)=='\'') gov=gov.substring(0, gov.length()-1);
 			if (dep.charAt(dep.length()-1)=='\'') dep=dep.substring(0, dep.length()-1);			
 			int govId=Integer.parseInt(gov.substring(gov.lastIndexOf("-")+1));
@@ -155,7 +156,7 @@ public class StanfordParseReader implements ParseReader {
 			if (!currNonRoots.contains(govId)) currRoots.add(govId);
 			
 			if (govId>=currSent.tokens_.size() || depId>=currSent.tokens_.size())
-				System.out.println(currSent.tokens_.toString());
+
 				Utils.println("ERR: exceed token # "+depFileName+" senId="+senId+" currSize="+currSent.tokens_.size()+" govId="+govId+" depId="+depId);
 			
 			// skip sem-empty dep
