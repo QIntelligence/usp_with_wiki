@@ -1,0 +1,9 @@
+=== Params ===
+resultDir	results
+dataDir	wiki/
+priorNumParam	-5.0
+priorNumConj	-10.0
+
+Gathering filenames ...
+<PREPROC> Filenames gathered: 5 files
+[Parse] read syntax ...

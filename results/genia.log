@@ -1,0 +1,9 @@
+=== Params ===
+resultDir	results
+dataDir	genia
+priorNumParam	-5.0
+priorNumConj	-10.0
+
+Gathering filenames ...
+<PREPROC> Filenames gathered: 1999 files
+[Parse] read syntax ...
