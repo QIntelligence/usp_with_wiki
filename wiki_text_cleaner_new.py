@@ -19,6 +19,13 @@ def clean_wikipedia(lines_to_clean):
 		elif 70 > len(word_tokenize(line)) > 0:
 			line = re.sub('([.,!?()])', r' \1 ', line)
 			line = re.sub('\s{2,}', ' ', line)
+			p = re.compile("(\d\s\.\s\d)")
+			to_fix = p.findall(line)
+			for number in to_fix:
+				start_index = line.index(number)
+				end_index = start_index + len(number)
+				new_number = number.replace(' . ', '.')
+				line = line[:start_index] + new_number + line[end_index:]
 			cleaned_lines.append(line)
 		#print str(len(line.split(' ')))
 		print sent_tokenize(line)

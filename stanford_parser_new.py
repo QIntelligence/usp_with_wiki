@@ -107,6 +107,8 @@ def parse_sentence(string_to_parse, tagger, lemmatizer):
 		else:
 			lemma = wordnet_lemmatizer.lemmatize(word[0])
 
+		lemma = lemma.replace('(', '-lrb-')
+		lemma = lemma.replace(')', '-rrb-')
 		lemmas.append(lemma)
 
 
