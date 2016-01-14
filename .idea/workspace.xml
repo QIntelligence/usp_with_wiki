@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4be299c-142f-40ff-97a7-322db6c07231" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki/dep/0/0000.dep" afterPath="$PROJECT_DIR$/wiki/dep/0/0000.dep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki/morph/0/0000.input" afterPath="$PROJECT_DIR$/wiki/morph/0/0000.input" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wiki/morph/0/0000.morph" afterPath="$PROJECT_DIR$/wiki/morph/0/0000.morph" />
-    </list>
+    <list default="true" id="d4be299c-142f-40ff-97a7-322db6c07231" name="Default" comment="" />
     <ignored path="usp_with_wiki.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
