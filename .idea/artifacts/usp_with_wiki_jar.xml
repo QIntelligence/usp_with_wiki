@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="usp_with_wiki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/usp_with_wiki_jar</output-path>
+    <root id="archive" name="usp_with_wiki.jar">
+      <element id="module-output" name="usp_with_wiki" />
+    </root>
+  </artifact>
+</component>

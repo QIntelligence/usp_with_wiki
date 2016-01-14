@@ -77,7 +77,7 @@ the_DT
 metropolitan_JJ
 area_NN
 -LRB-_-LRB-
-5th_PRP$
+5th_PRP
 largest_JJS
 CSA_NN
 -RRB-_-RRB-
@@ -202,7 +202,7 @@ manufacturing_VBG
 center_NN
 ,_,
 and_CC
-its_PRP$
+its_PRP
 rich_JJ
 history_NN
 now_RB
@@ -738,7 +738,7 @@ period_NN
 Paul_NNP
 Revere_NNP
 made_VBD
-his_PRP$
+his_PRP
 famous_JJ
 midnight_NN
 ride_NN
@@ -861,7 +861,7 @@ had_VBD
 found_VBN
 alternatives_NNS
 for_IN
-their_PRP$
+their_PRP
 capital_NN
 investments_NNS
 in_IN
@@ -917,7 +917,7 @@ and_CC
 was_VBD
 notable_JJ
 for_IN
-its_PRP$
+its_PRP
 garment_JJ
 production_NN
 and_CC
@@ -991,7 +991,7 @@ it_PRP
 became_VBD
 renowned_JJ
 for_IN
-its_PRP$
+its_PRP
 rarefied_JJ
 literary_JJ
 culture_NN
@@ -1237,7 +1237,7 @@ and_CC
 the_DT
 city_NN
 tripled_VBD
-its_PRP$
+its_PRP
 physical_JJ
 size_NN
 by_IN
@@ -1675,13 +1675,13 @@ agency_NN
 BRA_NNP
 subsequently_RB
 reevaluated_VBD
-its_PRP$
+its_PRP
 approach_NN
 to_TO
 urban_JJ
 renewal_NN
 in_IN
-its_PRP$
+its_PRP
 future_JJ
 projects_NNS
 ,_,
@@ -2023,7 +2023,7 @@ the_DT
 
 Owing_VBG
 to_TO
-its_PRP$
+its_PRP
 early_JJ
 founding_NN
 ,_,
@@ -2341,7 +2341,7 @@ intact_JJ
 just_RB
 half_PDT
 of_IN
-its_PRP$
+its_PRP
 height_NN
 was_VBD
 cut_VBN
@@ -2455,7 +2455,7 @@ John_NNP
 Hancock_NNP
 Building_NNP
 with_IN
-its_PRP$
+its_PRP
 prominent_JJ
 weather_NN
 forecast_NN
@@ -4207,7 +4207,7 @@ has_VBZ
 been_VBN
 credited_VBN
 to_TO
-its_PRP$
+its_PRP
 police_NN
 department_NN
 's_POS
@@ -4399,7 +4399,7 @@ Police_NNP
 Department_NNP
 should_MD
 reevaluate_VB
-its_PRP$
+its_PRP
 approach_NN
 to_TO
 fighting_VBG
@@ -4743,7 +4743,7 @@ waterfront_NN
 
 Because_IN
 of_IN
-its_PRP$
+its_PRP
 status_NN
 as_IN
 a_DT
@@ -4816,7 +4816,7 @@ equipment_NN
 New_NNP
 Balance_NNP
 has_VBZ
-its_PRP$
+its_PRP
 headquarters_NN
 in_IN
 the_DT
@@ -5000,7 +5000,7 @@ on_IN
 Commonwealth_NNP
 Avenue_NNP
 and_CC
-its_PRP$
+its_PRP
 medical_JJ
 campus_NN
 in_IN
@@ -5073,7 +5073,7 @@ private_JJ
 university_NN
 known_VBN
 for_IN
-its_PRP$
+its_PRP
 law_NN
 school_NN
 ,_,
@@ -5161,7 +5161,7 @@ South_NNP
 Boston_NNP
 ,_,
 moved_VBD
-its_PRP$
+its_PRP
 campus_NN
 west_NN
 to_TO
@@ -5400,7 +5400,7 @@ in_IN
 Tufts_NNP
 University_NNP
 administers_VBZ
-its_PRP$
+its_PRP
 medical_JJ
 and_CC
 dental_JJ
@@ -5687,7 +5687,7 @@ institutions_NNS
 Boston_NNP
 also_RB
 has_VBZ
-its_PRP$
+its_PRP
 own_JJ
 collection_NN
 of_IN
@@ -5715,7 +5715,7 @@ as_IN
 a_DT
 result_NN
 of_IN
-its_PRP$
+its_PRP
 intellectual_JJ
 reputation_NN
 ;_:
@@ -5726,7 +5726,7 @@ Boston_NNP
 culture_NN
 originates_VBZ
 at_IN
-its_PRP$
+its_PRP
 universities_NNS
 ._.
 
@@ -5968,7 +5968,7 @@ Contemporary_NNP
 Art_NNP
 moved_VBD
 from_IN
-its_PRP$
+its_PRP
 Back_NNP
 Bay_NNP
 location_NN
@@ -6593,7 +6593,7 @@ Boston_NNP
 television_NN
 stations_NNS
 have_VBP
-their_PRP$
+their_PRP
 transmitters_NNS
 in_IN
 nearby_JJ
@@ -6630,7 +6630,7 @@ champions_NNS
 The_DT
 team_NN
 plays_VBZ
-its_PRP$
+its_PRP
 home_NN
 games_NNS
 at_IN
@@ -7848,7 +7848,7 @@ growth_NN
 ._.
 
 In_IN
-its_PRP$
+its_PRP
 March_NNP
 2006_CD
 issue_NN
@@ -7919,7 +7919,7 @@ as_IN
 Route_NNP
 128_CD
 ,_,
-its_PRP$
+its_PRP
 historical_JJ
 state_NN
 route_NN

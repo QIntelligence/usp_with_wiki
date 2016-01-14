@@ -221,9 +221,9 @@ public class StanfordParseReader implements ParseReader {
 		String s,s2;
 		String[] ts;
 		boolean isNew=true;
-		while ((s=in.readLine())!=null)  
+		while ((s=in.readLine())!=null && (s2=in2.readLine()) !=null)
 		{
-			s2=in2.readLine();
+
 			s=s.trim();
 			if (s.length()==0) {
 				isNew=true;
@@ -240,8 +240,7 @@ public class StanfordParseReader implements ParseReader {
 			v=doc.sentences_.get(doc.sentences_.size()-1).tokens_;
 			
 			String pos=ts[1];
-			System.out.print(s1)
-			System.out.print(s2)
+			//System.out.print(s2);
 			String lemma=s2.replace(':', '.').toLowerCase();
 			if (lemma.indexOf("_nn")>0) lemma=lemma.substring(0,lemma.indexOf("_nn"));
 			Token t=new Token(pos,lemma);

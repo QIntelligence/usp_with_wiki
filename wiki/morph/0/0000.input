@@ -90,7 +90,7 @@ ancient_JJ
 observers_NNS
 due_JJ
 to_TO
-its_PRP$
+its_PRP
 dimness_NNS
 ._.
 
@@ -98,7 +98,7 @@ Sir_NNP
 William_NNP
 Herschel_NNP
 announced_VBD
-its_PRP$
+its_PRP
 discovery_NN
 on_IN
 March_NNP
@@ -311,7 +311,7 @@ among_IN
 the_DT
 planets_NNS
 because_IN
-its_PRP$
+its_PRP
 axis_NNS
 of_IN
 rotation_NN
@@ -324,13 +324,13 @@ into_IN
 the_DT
 plane_NN
 of_IN
-its_PRP$
+its_PRP
 revolution_NN
 about_IN
 the_DT
 Sun_NNP
 ;_:
-its_PRP$
+its_PRP
 north_NN
 and_CC
 south_NN
@@ -341,7 +341,7 @@ most_RBS
 other_JJ
 planets_NNS
 have_VBP
-their_PRP$
+their_PRP
 equators_NNS
 ._.
 
@@ -363,7 +363,7 @@ an_DT
 archery_JJ
 target_NN
 and_CC
-its_PRP$
+its_PRP
 moons_NNS
 revolve_VB
 around_RP
@@ -436,7 +436,7 @@ years_NNS
 as_IN
 Uranus_NNP
 approached_VBD
-its_PRP$
+its_PRP
 equinox_NNS
 ._.
 
@@ -462,7 +462,7 @@ many_JJ
 occasions_NNS
 prior_RB
 to_TO
-its_PRP$
+its_PRP
 discovery_NN
 as_IN
 a_DT
@@ -542,7 +542,7 @@ in_IN
 the_DT
 garden_NN
 of_IN
-his_PRP$
+his_PRP
 house_NN
 at_IN
 19_CD
@@ -603,7 +603,7 @@ using_VBG
 a_DT
 telescope_NN
 of_IN
-his_PRP$
+his_PRP
 own_JJ
 design_NN
 ._.
@@ -611,7 +611,7 @@ design_NN
 He_PRP
 recorded_VBD
 in_IN
-his_PRP$
+his_PRP
 journal_NN
 ``_``
 In_IN
@@ -662,7 +662,7 @@ for_IN
 it_PRP
 has_VBZ
 changed_VBN
-its_PRP$
+its_PRP
 place_NN
 ''_''
 ._.
@@ -670,7 +670,7 @@ place_NN
 When_WRB
 he_PRP
 presented_VBD
-his_PRP$
+his_PRP
 discovery_NN
 to_TO
 the_DT
@@ -706,7 +706,7 @@ Nevil_NNP
 Maskelyne_NNP
 ,_,
 of_IN
-his_PRP$
+his_PRP
 discovery_NN
 and_CC
 received_VBD
@@ -779,7 +779,7 @@ continued_VBD
 to_TO
 cautiously_RB
 describe_VB
-his_PRP$
+his_PRP
 new_JJ
 object_NN
 as_IN
@@ -802,7 +802,7 @@ Anders_NNP
 Johan_NNP
 Lexell_NNP
 estimated_VBD
-its_PRP$
+its_PRP
 distance_NN
 as_IN
 18_CD
@@ -872,7 +872,7 @@ Saturn_NNP
 Bode_NNP
 concluded_VBD
 that_IN
-its_PRP$
+its_PRP
 near-circular_JJ
 orbit_NN
 was_VBD
@@ -949,7 +949,7 @@ a_DT
 Primary_JJ
 Planet_NN
 of_IN
-our_PRP$
+our_PRP
 Solar_NNP
 System_NNP
 ._.
@@ -958,7 +958,7 @@ System_NNP
 In_IN
 recognition_NN
 of_IN
-his_PRP$
+his_PRP
 achievement_NN
 ,_,
 King_NNP
@@ -991,7 +991,7 @@ chance_NN
 to_TO
 look_VB
 through_IN
-his_PRP$
+his_PRP
 telescopes_NNS
 ._.
 
@@ -1014,13 +1014,13 @@ give_VB
 a_DT
 name_NN
 to_TO
-your_PRP$
+your_PRP
 planet_NN
 ,_,
 which_WDT
 is_VBZ
 entirely_RB
-your_PRP$
+your_PRP
 own_JJ
 ,_,
 &_SYM
@@ -1069,7 +1069,7 @@ Planet_NN
 in_IN
 honour_NN
 of_IN
-his_PRP$
+his_PRP
 new_JJ
 patron_NN
 ,_,
@@ -1101,7 +1101,7 @@ Herschel_NNP
 in_IN
 honour_NN
 of_IN
-its_PRP$
+its_PRP
 discoverer_NN
 ._.
 
@@ -1324,17 +1324,17 @@ in_IN
 was_VBD
 named_VBN
 in_IN
-its_PRP$
+its_PRP
 honour_NN
 by_IN
-its_PRP$
+its_PRP
 discoverer_NN
 ,_,
 Martin_NNP
 Klaproth_NNP
 ._.
 
-Its_PRP$
+Its_PRP
 astronomical_JJ
 symbol_NN
 is_VBZ
@@ -1378,7 +1378,7 @@ and_CC
 Mars_NNP
 ._.
 
-Its_PRP$
+Its_PRP
 astrological_JJ
 symbol_NN
 is_VBZ
@@ -1422,7 +1422,7 @@ the_DT
 first_JJ
 letter_NN
 of_IN
-your_PRP$
+your_PRP
 name_NN
 ''_''
 -RRB-_-RRB-
@@ -1469,7 +1469,7 @@ Earth_NNP
 years_NNS
 ._.
 
-Its_PRP$
+Its_PRP
 average_JJ
 distance_NN
 from_IN
@@ -1501,7 +1501,7 @@ of_IN
 Earth_NNP
 ._.
 
-Its_PRP$
+Its_PRP
 orbital_JJ
 elements_NNS
 were_VBD
@@ -1560,7 +1560,7 @@ Urbain_NNP
 Le_NNP
 Verrier_NNP
 began_VBD
-his_PRP$
+his_PRP
 own_JJ
 independent_JJ
 research_NN
@@ -1622,7 +1622,7 @@ all_DT
 giant_JJ
 planets_NNS
 ,_,
-its_PRP$
+its_PRP
 upper_JJ
 atmosphere_NN
 experiences_VBZ
@@ -1686,7 +1686,7 @@ of_IN
 rotation_NN
 lies_VBZ
 on_IN
-its_PRP$
+its_PRP
 side_NN
 with_IN
 respect_NN
@@ -1709,7 +1709,7 @@ degrees_NNS
 
 This_DT
 makes_VBZ
-its_PRP$
+its_PRP
 exchange_NN
 of_IN
 seasons_NNS
@@ -1878,7 +1878,7 @@ planets_NNS
 
 Uranus_NNS
 reached_VBD
-its_PRP$
+its_PRP
 most_JJS
 recent_JJ
 equinox_NNS
@@ -1917,7 +1917,7 @@ from_IN
 the_DT
 Sun_NNP
 than_IN
-its_PRP$
+its_PRP
 equatorial_JJ
 regions_NNS
 ._.
@@ -1928,11 +1928,11 @@ Uranus_NNP
 is_VBZ
 hotter_JJ
 at_IN
-its_PRP$
+its_PRP
 equator_NN
 than_IN
 at_IN
-its_PRP$
+its_PRP
 poles_NNS
 ._.
 
@@ -2137,7 +2137,7 @@ by_IN
 saying_VBG
 ``_``
 Take_VB
-your_PRP$
+your_PRP
 pick_NN
 !_.
 
@@ -2180,7 +2180,7 @@ at_IN
 5_CD
 ._.
 
-Its_PRP$
+Its_PRP
 angular_NN
 diameter_NN
 is_VBZ
@@ -2331,7 +2331,7 @@ giant_JJ
 planets_NNS
 ,_,
 while_IN
-its_PRP$
+its_PRP
 density_NN
 of_IN
 1_CD
@@ -2712,7 +2712,7 @@ gases_NNS
 ,_,
 hence_RB
 justifying_VBG
-their_PRP$
+their_PRP
 separate_JJ
 classification_NN
 as_IN
@@ -3019,7 +3019,7 @@ solar_JJ
 energy_NN
 absorbed_VBN
 in_IN
-its_PRP$
+its_PRP
 atmosphere_NN
 ._.
 
@@ -3103,7 +3103,7 @@ supermassive_JJ
 impactor_NN
 which_WDT
 caused_VBD
-its_PRP$
+its_PRP
 extreme_JJ
 axial_JJ
 tilt_NN
@@ -3117,7 +3117,7 @@ to_TO
 expel_VB
 most_JJS
 of_IN
-its_PRP$
+its_PRP
 primordial_JJ
 heat_NN
 ,_,
@@ -3208,7 +3208,7 @@ remote_JJ
 sensing_NNS
 is_VBZ
 called_VBN
-its_PRP$
+its_PRP
 atmosphere_NN
 ._.
 
@@ -3473,7 +3473,7 @@ upper_JJ
 atmosphere_NN
 due_JJ
 to_TO
-its_PRP$
+its_PRP
 extremely_RB
 low_JJ
 temperature_NN
@@ -3711,7 +3711,7 @@ emissions_NNS
 ,_,
 thus_RB
 determining_VBG
-its_PRP$
+its_PRP
 effective_JJ
 temperature_NN
 of_IN
@@ -3941,7 +3941,7 @@ hydrogen_NN
 atoms_NNS
 ._.
 
-Their_PRP$
+Their_PRP
 small_JJ
 molecular_JJ
 mass_NN
@@ -3985,7 +3985,7 @@ of_IN
 Uranus_NNP
 ._.
 
-Its_PRP$
+Its_PRP
 effects_NNS
 include_VBP
 a_DT
@@ -4084,7 +4084,7 @@ solar_JJ
 UV_NNP
 radiation_NN
 and_CC
-its_PRP$
+its_PRP
 density_NN
 depends_VBZ
 on_IN
@@ -4169,14 +4169,14 @@ young_JJ
 ;_:
 gaps_NNS
 in_IN
-their_PRP$
+their_PRP
 circumference_NN
 as_RB
 well_RB
 as_IN
 differences_NNS
 in_IN
-their_PRP$
+their_PRP
 opacity_NN
 suggest_VBP
 that_IN
@@ -4314,7 +4314,7 @@ atmosphere_NN
 However_RB
 ,_,
 when_WRB
-their_PRP$
+their_PRP
 observations_NNS
 were_VBD
 analyzed_VBN
@@ -4457,7 +4457,7 @@ which_WDT
 Mab_JJ
 ,_,
 shares_VBZ
-its_PRP$
+its_PRP
 orbit_NN
 with_IN
 the_DT
@@ -4642,7 +4642,7 @@ relative_JJ
 to_TO
 Uranus_NNP
 ,_,
-its_PRP$
+its_PRP
 changes_NNS
 as_IN
 Uranus_NNP
@@ -4652,7 +4652,7 @@ the_DT
 Sun_NNP
 ,_,
 and_CC
-its_PRP$
+its_PRP
 colour_NN
 ._.
 
@@ -4675,7 +4675,7 @@ been_VBN
 taken_VBN
 ,_,
 so_IN
-its_PRP$
+its_PRP
 nature_NN
 remained_VBD
 a_DT
@@ -4881,7 +4881,7 @@ either_DT
 pole_NN
 ,_,
 and_CC
-its_PRP$
+its_PRP
 ``_``
 magnetic_JJ
 equator_NN
@@ -4890,7 +4890,7 @@ is_VBZ
 roughly_RB
 parallel_RB
 with_IN
-its_PRP$
+its_PRP
 physical_JJ
 equator_NN
 ._.
@@ -4952,7 +4952,7 @@ which_WDT
 are_VBP
 generated_VBN
 within_IN
-their_PRP$
+their_PRP
 cores_NNS
 ,_,
 the_DT
@@ -4982,7 +4982,7 @@ ocean_NN
 ._.
 
 Despite_IN
-its_PRP$
+its_PRP
 curious_JJ
 alignment_NN
 ,_,
@@ -5409,7 +5409,7 @@ right_NN
 -RRB-_-RRB-
 ._.
 
-Their_PRP$
+Their_PRP
 boundary_NN
 is_VBZ
 located_VBN
@@ -5850,7 +5850,7 @@ planetary_JJ
 rotation_NN
 ._.
 
-Their_PRP$
+Their_PRP
 speeds_NNS
 are_VBP
 from_IN
@@ -6119,7 +6119,7 @@ extreme_JJ
 seasonal_JJ
 variations_NNS
 in_IN
-its_PRP$
+its_PRP
 weather_NN
 ._.
 
@@ -6317,7 +6317,7 @@ above_IN
 ._.
 
 During_IN
-its_PRP$
+its_PRP
 previous_JJ
 northern_JJ
 solstice_NN
@@ -6409,7 +6409,7 @@ Uranus_NNPS
 moved_VBD
 away_RB
 from_IN
-its_PRP$
+its_PRP
 solstice_NN
 ,_,
 Hubble_NNP
@@ -6631,7 +6631,7 @@ gas_NN
 giants_NNS
 extend_VBP
 to_TO
-their_PRP$
+their_PRP
 formation_NN
 ._.
 
@@ -6720,7 +6720,7 @@ accreted_VBZ
 enough_JJ
 matter_NN
 for_IN
-their_PRP$
+their_PRP
 gravity_NN
 to_TO
 hold_VB
@@ -6763,7 +6763,7 @@ was_VBD
 reached_VBN
 ,_,
 and_CC
-their_PRP$
+their_PRP
 size_NN
 began_VBD
 to_TO
@@ -6878,7 +6878,7 @@ Uranus_NNP
 and_CC
 Neptune_NNP
 near_IN
-their_PRP$
+their_PRP
 present_JJ
 locations_NNS
 ._.
@@ -7133,7 +7133,7 @@ at_IN
 a_DT
 time_NN
 when_WRB
-its_PRP$
+its_PRP
 orbit_NN
 was_VBD
 more_RBR
@@ -7237,7 +7237,7 @@ in_IN
 Voyager_NNP
 2_CD
 made_VBD
-its_PRP$
+its_PRP
 closest_JJS
 approach_NN
 to_TO
@@ -7263,7 +7263,7 @@ tops_NNS
 ,_,
 before_IN
 continuing_VBG
-its_PRP$
+its_PRP
 journey_NN
 to_TO
 Neptune_NNP
@@ -7294,7 +7294,7 @@ weather_NN
 ,_,
 caused_VBN
 by_IN
-its_PRP$
+its_PRP
 axial_JJ
 tilt_NN
 of_IN
@@ -7306,7 +7306,7 @@ of_IN
 ;_:
 and_CC
 examined_VBD
-its_PRP$
+its_PRP
 ring_NN
 system_NN
 ._.
@@ -7318,14 +7318,14 @@ the_DT
 magnetic_JJ
 field_NN
 ,_,
-its_PRP$
+its_PRP
 irregular_NN
 structure_NN
 ,_,
-its_PRP$
+its_PRP
 tilt_NN
 and_CC
-its_PRP$
+its_PRP
 unique_JJ
 corkscrew_NN
 magnetotail_NN
@@ -7345,7 +7345,7 @@ first_JJ
 detailed_JJ
 investigations_NNS
 of_IN
-its_PRP$
+its_PRP
 five_CD
 largest_JJS
 moons_NNS

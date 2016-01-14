@@ -158,7 +158,7 @@ magnetic_JJ
 fields_NNS
 ,_,
 and_CC
-their_PRP$
+their_PRP
 symmetry_NN
 ._.
 
@@ -363,7 +363,7 @@ causing_VBG
 them_PRP
 to_TO
 emit_VB
-their_PRP$
+their_PRP
 own_JJ
 EM_NNP
 waves_NNS
@@ -457,7 +457,7 @@ of_IN
 different_JJ
 density_NN
 alters_VBZ
-its_PRP$
+its_PRP
 speed_NN
 and_CC
 direction_NN
@@ -696,7 +696,7 @@ of_IN
 a_DT
 wave_NN
 is_VBZ
-its_PRP$
+its_PRP
 rate_NN
 of_IN
 oscillation_NN
@@ -851,11 +851,11 @@ between_IN
 different_JJ
 media_NNS
 ,_,
-their_PRP$
+their_PRP
 speeds_NNS
 change_VBP
 but_CC
-their_PRP$
+their_PRP
 frequencies_NNS
 remain_VBP
 constant_JJ
@@ -1100,7 +1100,7 @@ element_NN
 emits_VBZ
 and_CC
 absorbs_VBZ
-its_PRP$
+its_PRP
 own_JJ
 characteristic_JJ
 frequencies_NNS
@@ -1638,7 +1638,7 @@ EM_NNP
 radiation_NN
 depends_VBZ
 on_IN
-its_PRP$
+its_PRP
 wavelength_NN
 ._.
 
@@ -1666,7 +1666,7 @@ atoms_NNS
 and_CC
 molecules_NNS
 ,_,
-its_PRP$
+its_PRP
 behavior_NN
 depends_VBZ
 on_IN
@@ -1880,13 +1880,13 @@ fruit_NN
 and_CC
 then_RB
 strikes_VBZ
-our_PRP$
+our_PRP
 eyes_NNS
 ,_,
 this_DT
 results_NNS
 in_IN
-our_PRP$
+our_PRP
 visual_JJ
 perception_NN
 of_IN
@@ -1894,7 +1894,7 @@ the_DT
 scene_NN
 ._.
 
-Our_PRP$
+Our_PRP
 brain_NN
 's_POS
 visual_JJ
@@ -1958,7 +1958,7 @@ the_DT
 spectrum_NN
 ,_,
 and_CC
-our_PRP$
+our_PRP
 technology_NN
 can_MD
 also_RB

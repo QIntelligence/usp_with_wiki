@@ -398,7 +398,7 @@ are_VBP
 grouped_VBN
 together_RB
 because_IN
-their_PRP$
+their_PRP
 prognosis_NN
 and_CC
 management_NN
@@ -807,7 +807,7 @@ of_IN
 the_DT
 cancer_NN
 from_IN
-its_PRP$
+its_PRP
 original_JJ
 source_NN
 ._.
@@ -3508,7 +3508,7 @@ targeting_VBG
 techniques_NNS
 ._.
 
-Its_PRP$
+Its_PRP
 use_NN
 is_VBZ
 primarily_RB
