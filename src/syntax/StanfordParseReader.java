@@ -139,7 +139,7 @@ public class StanfordParseReader implements ParseReader {
 			String gov=s.substring(i1,i2).trim();			
 			String dep=s.substring(i2+1,i3).trim();
 			
-			System.out.println("gov="+gov+" dep="+dep);
+			Utils.println("gov="+gov+" dep="+dep);
 
 			// all-info
 
@@ -147,8 +147,8 @@ public class StanfordParseReader implements ParseReader {
 			if (dep.charAt(dep.length()-1)=='\'') dep=dep.substring(0, dep.length()-1);			
 			int govId=Integer.parseInt(gov.substring(gov.lastIndexOf("-")+1));
 			int depId=Integer.parseInt(dep.substring(dep.lastIndexOf("-")+1));
-			System.out.println("govId="+govId+ " depId="+depId);
-			System.out.println(currSent.tokens_.toString());
+			Utils.println("govId="+govId+ " depId="+depId);
+			Utils.println(currSent.tokens_.toString());
 
 			// skip conj splitting to avoid infinite loop
 			if (rel.indexOf("conj")==0 && govId==depId) continue;
