@@ -155,6 +155,7 @@ public class StanfordParseReader implements ParseReader {
 			if (!currNonRoots.contains(govId)) currRoots.add(govId);
 			
 			if (govId>=currSent.tokens_.size() || depId>=currSent.tokens_.size())
+				System.out.println(currSent.tokens_.toString());
 				Utils.println("ERR: exceed token # "+depFileName+" senId="+senId+" currSize="+currSent.tokens_.size()+" govId="+govId+" depId="+depId);
 			
 			// skip sem-empty dep
