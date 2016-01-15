@@ -121,6 +121,7 @@ public class StanfordParseReader implements ParseReader {
 				if (senId>=doc.sentences_.size()) 
 					Utils.println("\tsenid="+senId+" "+doc.sentences_.size());
 				System.out.println(senId);
+				System.out.println(currSent.toString());
 				currSent=doc.sentences_.get(senId);
 				currSent.tkn_children_.put(0,new HashSet<Pair<String,Integer>>());
 				currNonRoots=new HashSet<Integer>();

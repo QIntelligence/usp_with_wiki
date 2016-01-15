@@ -97,8 +97,8 @@
       <file leaf-file-name="StanfordParseReader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/syntax/StanfordParseReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9485179">
-              <caret line="134" column="66" selection-start-line="134" selection-start-column="66" selection-end-line="134" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.7145086">
+              <caret line="124" column="45" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -615,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/syntax/StanfordParseReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9485179">
-          <caret line="134" column="66" selection-start-line="134" selection-start-column="66" selection-end-line="134" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.7145086">
+          <caret line="124" column="45" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
           <folding />
         </state>
       </provider>
