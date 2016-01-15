@@ -123,7 +123,7 @@ public class StanfordParseReader implements ParseReader {
 				System.out.println(senId);
 
 				currSent=doc.sentences_.get(senId);
-				System.out.println(currSent.toString());
+				//System.out.println(currSent.toString());
 				currSent.tkn_children_.put(0,new HashSet<Pair<String,Integer>>());
 				currNonRoots=new HashSet<Integer>();
 				currRoots=new HashSet<Integer>();
