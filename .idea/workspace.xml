@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4be299c-142f-40ff-97a7-322db6c07231" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/syntax/StanfordParseReader.java" afterPath="$PROJECT_DIR$/src/syntax/StanfordParseReader.java" />
-    </list>
+    <list default="true" id="d4be299c-142f-40ff-97a7-322db6c07231" name="Default" comment="" />
     <ignored path="usp_with_wiki.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -97,8 +95,8 @@
       <file leaf-file-name="StanfordParseReader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/syntax/StanfordParseReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2698908">
-              <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.76131046">
+              <caret line="126" column="29" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -615,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/syntax/StanfordParseReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2698908">
-          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.76131046">
+          <caret line="126" column="29" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
           <folding />
         </state>
       </provider>
