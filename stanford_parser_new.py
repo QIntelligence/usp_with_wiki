@@ -174,10 +174,10 @@ if __name__ == '__main__':
 		for sentence in sentences:
 		#	print sent_tokenize(sentence)
 			if 70 > len(word_tokenize(sentence)) > 0:
-				if index_sent % 10 == 0:
+				if index_sent % 100 == 0:
 					end = time.time()
 					print str(index_sent) + '/' + str(len(sentences))+ ' sentences completed'
-					print str((end - start)/10.0) + 'seconds per sentence' 
+					print str((end - start)/100.0) + 'seconds per sentence' 
 					start = time.time()
 				lemmas, morphemes, dependencies = parse_sentence(sentence, tagger, lemmatizer)
 				for morpheme in morphemes:

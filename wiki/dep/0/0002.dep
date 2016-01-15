@@ -1234,9 +1234,8 @@ nmod(cause-15, cancer-18)
 case(non-smokers-20, in-19)
 
 root(ROOT-0, Studies-1)
-case(U-4, from-2)
-det(U-4, the-3)
-
+case(U.S-4, from-2)
+det(U.S-4, the-3)
 
 nsubj(shown-11, Europe-2)
 det(UK-5, the-4)
@@ -1388,9 +1387,8 @@ dobj(estimates-10, one-12)
 case(homes-15, in-13)
 nummod(homes-15, 15-14)
 nmod(one-12, homes-15)
-case(U-18, in-16)
-det(U-18, the-17)
-
+case(U.S-18, in-16)
+det(U.S-18, the-17)
 
 root(ROOT-0, has-1)
 compound(levels-3, radon-2)
@@ -3509,8 +3507,7 @@ case(Europe-14, while-12)
 amod(Europe-14, northern-13)
 nmod(has-3, Europe-14)
 cc(Europe-14, and-15)
-det(U-17, the-16)
-
+det(U.S-17, the-16)
 
 root(ROOT-0, have-1)
 det(mortality-4, the-2)

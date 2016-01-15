@@ -1516,10 +1516,7 @@ non-smokers_NNS
 Studies_NNS
 from_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 ,_,
@@ -1701,10 +1698,7 @@ in_IN
 homes_NNS
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 has_VBZ
@@ -4235,10 +4229,7 @@ northern_JJ
 Europe_NNP
 and_CC
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 have_VB

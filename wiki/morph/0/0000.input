@@ -83,10 +83,7 @@ CSA_NN
 -RRB-_-RRB-
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 ,_,
@@ -1217,10 +1214,7 @@ O'Neill_NNP
 ,_,
 and_CC
 John_NNP
-F_NNP
-._.
-
-Fitzgerald_FW
+F.Fitzgerald_NNP
 ._.
 
 Between_IN
@@ -2129,10 +2123,7 @@ Francisco_NNP
 and_CC
 Washington_NNP
 ,_,
-D_VBZ
-._.
-
-C_NNP
+D.C_VBZ
 ._.
 
 are_VBP
@@ -2514,10 +2505,7 @@ Victorian-era_JJ
 neighborhood_NN
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 Along_IN
@@ -2616,10 +2604,7 @@ public_JJ
 park_NN
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 Along_IN
@@ -3971,20 +3956,16 @@ government_NN
 including_VBG
 the_DT
 John_NNP
-F_NN
-._.
-
-Kennedy_NNP
+F.Kennedy_NNP
 Federal_NNP
 Office_NNP
 Building_NNP
 and_CC
 the_DT
 Thomas_NNP
-P_NNP
-._.
-
-O'Neill_NNP
+P.O_NNP
+`_``
+Neill_NNP
 Federal_NNP
 Building_NNP
 ._.
@@ -5358,10 +5339,7 @@ school_NN
 system_NN
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 ,_,
@@ -5875,10 +5853,7 @@ Point_NNP
 houses_VBZ
 the_DT
 John_NNP
-F_NN
-._.
-
-Kennedy_NNP
+F.Kennedy_NNP
 Library_NNP
 ._.
 
@@ -6026,10 +6001,7 @@ Is_VBZ
 Boston_NNP
 ,_,
 Not_RB
-L_NNP
-._.
-
-A_NN
+L.A_NNP
 ._.
 
 highlights_VBZ
@@ -6142,10 +6114,7 @@ regional_JJ
 presses_NNS
 across_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 The_DT
@@ -6322,10 +6291,7 @@ Boston_NNP
 ,_,
 WMBR_NNP
 -LRB-_-LRB-
-M_NNP
-._.
-
-I_PRP
+M.I_NNP
 ._.
 
 T_NNP
@@ -7310,10 +7276,7 @@ municipal_JJ
 hospital_NN
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 Water_NNP
@@ -7575,10 +7538,7 @@ the_DT
 south_NN
 ._.
 
-T_VB
-._.
-
-F_NN
+T.F_VB
 ._.
 
 Green_NNP
@@ -7733,10 +7693,7 @@ worst_JJS
 cities_NNS
 in_IN
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 for_IN
@@ -7794,10 +7751,7 @@ route_NN
 numbering_NN
 ._.
 
-U_NNP
-._.
-
-S_NNP
+U.S_VB
 ._.
 
 Route_NNP
@@ -8063,10 +8017,7 @@ City_NNP
 ,_,
 Washington_NNP
 ,_,
-D_NNP
-._.
-
-C_NNP
+D.C_NNP
 ._.
 
 ,_,

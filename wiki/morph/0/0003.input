@@ -2391,14 +2391,11 @@ theory_NN
 advanced_VBN
 by_IN
 Edward_NNP
-S_NNP
-._.
-
-Herman_NNP
+S.Herman_NNP
 and_CC
 Noam_NNP
 Chomsky_NNP
-that_DT
+that_WDT
 alleges_VBZ
 systemic_JJ
 biases_NNS
@@ -2643,10 +2640,7 @@ Analysis_NNP
 Alfred_NNP
 Lee_NNP
 ,_,
-F_NN
-._.
-
-C_NNP
+F.C_NNP
 ._.
 
 Bartlett_NNP
@@ -3583,10 +3577,7 @@ interested_JJ
 in_IN
 joining_VBG
 the_DT
-U_NNP
-._.
-
-S_NNP
+U.S_NNP
 ._.
 
 Army_NNP
@@ -4377,10 +4368,7 @@ or_CC
 neo-fascism_NN
 in_IN
 the_DT
-US_NNP
-._.
-
-When_WRB
+US.When_NNP
 describing_VBG
 life_NN
 in_IN
@@ -5045,10 +5033,7 @@ recognition_NN
 on_IN
 the_DT
 website_NN
-WeLoveTheIraqiInformationMinister_NN
-._.
-
-com_NNP
+WeLoveTheIraqiInformationMinister.com_NNP
 The_NNP
 Iraqis_NNPS
 who_WP
@@ -5132,7 +5117,7 @@ an_DT
 important_JJ
 part_NN
 of_IN
-countering_VBG
+countering_JJ
 misinformation_NN
 in_IN
 the_DT
@@ -5149,10 +5134,7 @@ former_JJ
 Defense_NNP
 Secretary_NNP
 Donald_NNP
-H_NNP
-._.
-
-Rumsfeld_NNP
+H.Rumsfeld_NNP
 said_VBD
 the_DT
 allegations_NNS
@@ -5370,10 +5352,7 @@ Dorothea_NNP
 Ross_NNP
 and_CC
 Sheila_NNP
-A_NNP
-._.
-
-Ross_NNP
+A.Ross_NNP
 in_IN
 the_DT
 1960s_NNS
